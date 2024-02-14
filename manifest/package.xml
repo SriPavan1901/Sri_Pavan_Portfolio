@@ -26,11 +26,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>LightningComponentBundle</name>
+        <name>StaticResource</name>
     </types>
     <types>
         <members>*</members>
-        <name>StaticResource</name>
+        <name>LightningComponentBundle</name>
     </types>
     <version>58.0</version>
 </Package>

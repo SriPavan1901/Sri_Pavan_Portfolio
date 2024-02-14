@@ -2,7 +2,9 @@
     <div class="userDetailsAndStatsWrapper">
         <lightning-layout multiple-rows>
             <lightning-layout-item size="12">
-                <div>User Details will come here</div>
+               <c-portfolio-user-details 
+               record-id={recordId}
+               object-api-name={objectApiName}></c-portfolio-user-details>
             </lightning-layout-item>
             <lightning-layout-item size="12">
                 <div>User Stats will come here</div>
